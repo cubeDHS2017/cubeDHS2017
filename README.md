@@ -1,6 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=2E6736&random=true&width=447&lines=cubeDHS2017+--%3E+the+hacker)](https://git.io/typing-svg)
 
 
+CubeDHS2017 is a highschool student that enjoys computers. He enjoys using them and understanding how they work. He has always been intrigued with pushing computers to their limits. He is learning malware development and also WIFI hacking.
+
+
+Technologies that he is familiar with:
+
+
+
 
 
 - 👋 Hi, I’m @cubeDHS2017
