@@ -11,7 +11,13 @@ Favorite hacking tools:
 `aircrack` `nmap`
 
 
+Projects:
+- Website
+- P4wnP1 ALOA HID malware
 
+Future Projects:
+- Operating System
+- Python and C malware
 
 
 <!---
