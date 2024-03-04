@@ -1,3 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=2E6736&random=true&width=447&lines=cubeDHS2017+--%3E+the+hacker)](https://git.io/typing-svg)
+
+
+
+
 - 👋 Hi, I’m @cubeDHS2017
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
