@@ -1,24 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=2E6736&random=true&width=447&lines=cubeDHS2017+--%3E+the+hacker)](https://git.io/typing-svg)
+Hello, my name is Douglas and I enjoy working witih computers. Some of the things I most enjoy doing with computers is programming, hacking, and tinkering with my homelab. I also greatly enjoy using Linux as my operating system of choice (I use Arch btw 😉).   
 
-
-CubeDHS2017 is a highschool student that enjoys computers. He enjoys using them and understanding how they work. He has always been intrigued with pushing computers to their limits. He is learning malware development and also WIFI hacking.
-
-
-Languages he is familar with:
-`Python` `C` `C++` `Powershell`
-
-Favorite hacking tools:
-`aircrack` `nmap`
-
+Languages I am familar with:
+`Python` `HTML` `CSS`
 
 ### Projects:
 - Website
-- P4wnP1 ALOA HID malware
+- Homelab
 
 ### Future Projects:
 - Operating System
-- Python and C malware
-
 
 <!---
 cubeDHS2017/cubeDHS2017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
